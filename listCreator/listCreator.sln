@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "listCreator", "listCreator.csproj", "{D63146C2-60FB-4702-BFD7-483FFE44E7FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D63146C2-60FB-4702-BFD7-483FFE44E7FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D63146C2-60FB-4702-BFD7-483FFE44E7FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D63146C2-60FB-4702-BFD7-483FFE44E7FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D63146C2-60FB-4702-BFD7-483FFE44E7FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43BBB76A-10F0-4642-8559-7A86109424FB}
+	EndGlobalSection
+EndGlobal
